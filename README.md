@@ -2,7 +2,7 @@
 An application that can be used to keep track of your tasks and reminds you at the assigned time. It is made in react native and meant android devices.
 ![Screenshot_1662484640](https://user-images.githubusercontent.com/84592598/188699588-19417191-1171-4762-b3be-9dba4ddb7bb4.png)
 
-![Screenshot_1662484649](https://user-images.githubusercontent.com/84592598/188699633-b5366c86-50f2-48af-9dee-e6fe7257e3e2.png)
+<img src="https://user-images.githubusercontent.com/84592598/188699633-b5366c86-50f2-48af-9dee-e6fe7257e3e2.png" width="100" height="200">
 
 Select Date and time
 

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1026010481204",
+    "project_id": "todolistandroid-85f40",
+    "storage_bucket": "todolistandroid-85f40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026010481204:android:6e71a88e9d372a49800061",
+        "android_client_info": {
+          "package_name": "com.todolistandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1026010481204-t5oa5qpudkn2ch9b6p2idaqhtb0em8e6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG_yGo2JWH8wT8oC7pHv92DrcOnxLJsrE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1026010481204-t5oa5qpudkn2ch9b6p2idaqhtb0em8e6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
